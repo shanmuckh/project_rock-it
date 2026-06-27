@@ -5,7 +5,7 @@
 ---
 
 ### 1. PREAMBLE
-This License governs the use of the "Black_Hole" software and associated documentation (the "Software"). By accessing, using, or distributing the Software, you agree to be bound by the terms of this License. This is not an Open Source license as defined by the OSI; it is a **Source-Available Non-Commercial License**.
+This License governs the use of the "project_rock-it" software and associated documentation (the "Software"). By accessing, using, or distributing the Software, you agree to be bound by the terms of this License. This is not an Open Source license as defined by the OSI; it is a **Source-Available Non-Commercial License**.
 
 ### 2. GRANT OF LICENSE
 Subject to the terms and conditions herein, the Licensor (Surakarapu Shanmukh Srinivas) hereby grants you a worldwide, non-exclusive, no-charge, non-transferable license to:
