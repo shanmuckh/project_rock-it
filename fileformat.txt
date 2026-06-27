@@ -75,6 +75,7 @@ The following file format versions exist:
       Added <maxtime> attribute to simulation conditions.
       Added <designtype> and  <kitname> to <rocket> element.
 
+
 1.11: Introduced with project_rock-it 26.XX.
       Added <simulationsteppermethod> to <simulation >element.
       Added simulation.table.hiddenColumns document preference for simulation table column visibility.
