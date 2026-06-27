@@ -11,7 +11,8 @@ JAVAOPTS=""
 while echo "$1" | grep -q "^-" ; do
     JAVAOPTS="$JAVAOPTS $1"
     shift
-done
+done   
+# Modularize codebase to JPMS
 
 java -cp $JAVAOPTS info.openrocket.swing.startup.Startup "$@"
 
