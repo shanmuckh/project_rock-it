@@ -5,6 +5,7 @@
             <element id="directory" name="META-INF">
                 <element id="file-copy" path="$PROJECT_DIR$/core/src/META-INF/MANIFEST.MF" />
       </element>
+      
             <element id="module-output" name="OpenRocket Swing" />
             <element id="module-output" name="OpenRocket Core" />
             <element id="extracted-dir" path="$PROJECT_DIR$/swing/lib/jcommon-1.0.18.jar" path-in-jar="/" />
