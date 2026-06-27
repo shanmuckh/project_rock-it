@@ -1,5 +1,5 @@
 name: Bug report
-description: Help us make OpenRocket better
+description: Help us make project_rock-it better
 title: '[Bug] REPLACE WITH YOUR TITLE HERE'
 labels: bug
 type: bug
@@ -44,10 +44,10 @@ body:
   validations:
     required: false
 - type: input
-  id: version-openrocket
+  id: version-project_rock-it
   attributes:
-    label: OpenRocket version
-    description: In what version(s) of OpenRocket does this bug happen?
+    label: project_rock-it version
+    description: In what version(s) of project_rock-it does this bug happen?
     placeholder: 22.02, unstable...
   validations:
     required: true

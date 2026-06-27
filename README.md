@@ -5,13 +5,13 @@ project_rock-it is a free, fully featured model rocket simulator that allows you
 ## 🛠️ Design, Visualize, and Analyze
 
 1. **Design** your rockets using a rich selection of built-in components:
-   ![Three-stage rocket - 2D](.github/project_rock-it_home_2D.png)
+   ![Three-stage rocket - 2D](.github/OpenRocket_home_2D.png)
 
 2. **Visualize** your masterpiece in 3D:
-   ![Three-stage rocket - 3D](.github/project_rock-it_home_3D.png)
+   ![Three-stage rocket - 3D](.github/OpenRocket_home_3D.png)
 
 3. **Plot & Analyze** your simulation results for precision and improvements:
-   ![Three-stage rocket - Simulation plot](.github/project_rock-it_sim.png)
+   ![Three-stage rocket - Simulation plot](.github/OpenRocket_sim.png)
 
 ## 🌟 Features
 

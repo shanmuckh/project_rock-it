@@ -25,13 +25,12 @@ The steps below will use '(git)' to note the step requires working in the files 
 
 10. Tag the version in Git 'git tag -a release-XX.YY'
 
-11. Commit files+tag to git (OpenRocket and dists, 'git push origin release-XX.YY')
+11. Commit files+tag to git 
 
 12. Upload JAR and source distribution and ReleaseNotes to Sourceforge 
      - Files -> Add Folder -> Add File
 
-13. Update HTML to web server:
-    cd ./web/html; scp * plaa,openrocket@web.sourceforge.net:htdocs/
+13. Update HTML to web server.
 
 14. Test downloading from GitHub and web site
 
