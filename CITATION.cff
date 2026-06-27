@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Surakarapu"
+  given-names: "Shanmukh Srinivas"
+title: "rock-it"
+version: 15.03
+date-released: 2026-06-27
+url: "https://github.com/shanmuckh/project_rock-it"
